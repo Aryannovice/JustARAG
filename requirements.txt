@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-pinecone
+pinecone-client
+openai
+python-dotenv
+langchain-community
+PyPDF2
+sentence-transformers
+scikit-learn
+numpy
